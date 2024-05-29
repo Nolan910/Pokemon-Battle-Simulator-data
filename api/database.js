@@ -1,7 +1,8 @@
 //import { MongoClient, Db } from "mongodb";
 const { MongoClient } = require("mongodb");
+require("dotenv").config()
 
-let databaseUrl = 'mongodb+srv://nolanfievet:IOjjIabmm76dMes8@cluster0.mr0z31x.mongodb.net/Pokemon_Projet';
+let databaseUrl = process.env.MONGO_URI
 
 let cachedDb = null;
 let promise = null;
