@@ -1,5 +1,5 @@
 # Pokemon-Battle-Simulator-data
-Backend de Pokemon Battle Simulator
+Backend de Pokemon Battle Simulator en nodejs
 
 ## Base de données
 ### Mango db
