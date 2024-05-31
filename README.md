@@ -6,5 +6,5 @@ Backend de Pokemon Battle Simulator
 Les données sur les pokemons, les types, les attaques et les capacité sont stockées sur Mango DB
 
 ## Déployement
-### Verel
+### Vercel
 L'application est déployée avec Vercel
