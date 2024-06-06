@@ -8,3 +8,4 @@ Les données sur les pokemons, les types, les attaques et les capacité sont sto
 ## Déployement
 ### Vercel
 L'application est déployée avec Vercel
+https://pokemon-battle-simulator-data.vercel.app/
